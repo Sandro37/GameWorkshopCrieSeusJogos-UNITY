@@ -6309,6 +6309,11 @@ PrefabInstance:
       propertyPath: headArea
       value: 0.07
       objectReference: {fileID: 0}
+    - target: {fileID: 4845206513845420346, guid: 9ec8ce20817090d48ab18a9d3ee2b362,
+        type: 3}
+      propertyPath: health
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 5223064480640317985, guid: 9ec8ce20817090d48ab18a9d3ee2b362,
         type: 3}
       propertyPath: m_LocalPosition.x
